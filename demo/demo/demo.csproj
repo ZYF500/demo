@@ -1,8 +1,6 @@
 <Project Sdk="Uno.Sdk">
   <PropertyGroup>
-    <TargetFrameworks>
-      net8.0-browserwasm;
-    </TargetFrameworks>
+    <TargetFramework>net5.0</TargetFramework>
 
     <OutputType>Exe</OutputType>
     <UnoSingleProject>true</UnoSingleProject>
